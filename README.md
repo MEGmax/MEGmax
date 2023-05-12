@@ -46,4 +46,4 @@ If you need any help with one of my projects or just want to chat about computer
 
 ### 📊 Top Languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGmax&theme=tokyonight)](https://github.com/<Your GitHub Username>/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MEGmax&theme=tokyonight)](https://github.com/MEGmax/github-readme-stats)
