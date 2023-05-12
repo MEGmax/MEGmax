@@ -1,6 +1,6 @@
 # Matthew's GitHub Profile
 
-## About Me 👋
+## 👋 About Me
 I'm a 3rd Year Computer Engineering student and aspiring software developer. I intended to minor in Robotics & Mechatronics and complete certificates in AI and Engineering Business  
 #### Some fun facts about me are:  
 
@@ -11,6 +11,8 @@ I'm a 3rd Year Computer Engineering student and aspiring software developer. I i
 🧩I can do a Rubik's Cube in < 45 seconds  
 
 ♟️I really like chess but I'm still working on getting my elo up 
+
+🔎My username comes from my initals (first middle last names)
 
 
 ## 🔭 Some of my Experiences
