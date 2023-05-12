@@ -4,15 +4,15 @@
 I'm a 3rd Year Computer Engineering student and aspiring software developer. I intended to minor in Robotics & Mechatronics and complete certificates in AI and Engineering Business  
 #### Some fun facts about me are:  
 
-🏀I like to play all kinds of sports, including basketball, badminton, hockey, track & field  
+🏀 I like to play all kinds of sports, including basketball, badminton, hockey, track & field  
 
-🇲🇹My family is from Malta, one of the smallest counties by land area in the world  
+🇲🇹 My family is from Malta, one of the smallest counties by land area in the world  
 
-🧩I can do a Rubik's Cube in < 45 seconds  
+🧩 I can do a Rubik's Cube in < 45 seconds  
 
-♟️I really like chess but I'm still working on getting my elo up 
+♟️ I really like chess but I'm still working on getting my elo up 
 
-🔎My username comes from my initals (first middle last names)
+🔎 My username comes from my initals (first middle last names)
 
 
 ## 🔭 Some of my Experiences
